@@ -21,16 +21,16 @@ For all of the below assignments, in their respective folders, the provided spec
   * This was a basic assignment to introduce programming at an elementary level. A simple car stereo was the desired outcome.
   * [See full specifications]()
 * Assignment 2
-  * 
+  * This was a basic assignment as well, to further introduce programming, where a simple dart game's scoring system was implemented.
   * [See full specifications]()
 * Assignment 3
-  * 
+  * The goal of this assignment was to create a basic game, named "Lyne", using Java. This was to provide a little bit more in-depth programming experience relative to the first two assignments. 
   * [See full specifications]()
 * Assignment 4
-  * 
+  * This was the most complex assignment of the class with the use of inheritance and abstract functions/classes. It was a simple implementation of the famous game "Pac-Man".
   * [See full specifications]()
 
 # Notes
-All of these assignments were performed by me, on my own. Importantly, these were some of the first ever coding projects I produced.
+All of these assignments were performed by me, on my own. Importantly, these were some of the first-ever coding projects I produced. This class also did have other coding assignments, but these were the larger projects/assignments whereas the rest were a smaller scale.
 
 **Disclaimer: Due to my lack of experience with programming at this point, these files are not written to the standard that I hold myself to now.
